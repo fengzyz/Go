@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 func convterToBin(n int) string{
-	result := "" 
+	result := ""
+	return result
 }
 func main() {
 	fmt.Println(
